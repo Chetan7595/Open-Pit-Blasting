@@ -6,11 +6,9 @@ This repository contains code for an Open Pit Blasting Machine Learning project.
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Data](#data)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -20,7 +18,7 @@ The code in this repository performs various tasks related to the Open Pit Blast
 
 To run the code, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/Chetan7595/Open-Pit-Blasting-ml.git`
+1. Clone the repository: `git clone https://github.com/Chetan7595/Open-Pit-Blasting.git`
 2. Place the dataset file "Assignment1.csv" in the project directory.
 
 ## Data
