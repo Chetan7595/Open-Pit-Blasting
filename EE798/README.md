@@ -20,18 +20,8 @@ The code in this repository performs various tasks related to the Open Pit Blast
 
 To run the code, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/Chetan7595/open-pit-blasting-ml.git`
-2. Navigate to the project directory: `cd open-pit-blasting-ml/`
-3. Install the required dependencies: `pip install -r requirements.txt`
-4. Place the dataset file "Assignment1.csv" in the project directory.
-
-## Usage
-
-To execute the code, follow the steps below:
-
-1. Run the `main.py` file: `python main.py`
-
-The code will perform data preprocessing, generate EDA visualizations, conduct time series analysis, build autoregressive models, evaluate model performance, and display the results.
+1. Clone the repository: `git clone https://github.com/Chetan7595/Open-Pit-Blasting-ml.git`
+2. Place the dataset file "Assignment1.csv" in the project directory.
 
 ## Data
 
@@ -50,7 +40,3 @@ Review the generated plots, model summaries, and evaluation metrics to gain insi
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request. 
 
 When contributing, please follow the existing code style, provide clear descriptions, and ensure that your changes do not introduce any errors or break the existing functionality.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
